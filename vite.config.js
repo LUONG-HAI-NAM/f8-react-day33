@@ -7,6 +7,7 @@ export default defineConfig({
       include: /\.[jt]sx?$/
     })
   ],
+  base: '/f8-react-day33/',
  optimizeDeps: {
     esbuildOptions: {
       loader: {
